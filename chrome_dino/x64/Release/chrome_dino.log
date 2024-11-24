@@ -1,0 +1,16 @@
+﻿  소스.cpp
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(99,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(129,23): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(137,23): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(187,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(187,38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(190,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(190,40): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(200,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(200,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\chrome_dino\소스.cpp(70,1): warning C4102: 'sf': 참조되지 않은 레이블입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 108 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  chrome_dino.vcxproj -> C:\Users\user\OneDrive\바탕 화면\chrome_dino\x64\Release\chrome_dino.exe
